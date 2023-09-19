@@ -1,9 +1,12 @@
 using UnityEditor;
 
-public static class ApplicationUtils
+namespace Lumpn.Quitting
 {
-    public static void Quit()
+    public static class ApplicationUtils
     {
-        EditorApplication.isPlaying = false;
+        public static void Quit()
+        {
+            EditorApplication.isPlaying = false;
+        }
     }
 }

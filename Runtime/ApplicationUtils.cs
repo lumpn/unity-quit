@@ -1,11 +1,12 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public static class ApplicationUtils 
+namespace Lumpn.Quitting
 {
-    public static void Quit()
+    public static class ApplicationUtils
     {
-        Application.Quit();
+        public static void Quit()
+        {
+            Application.Quit();
+        }
     }
 }
