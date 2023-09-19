@@ -1,0 +1,17 @@
+{
+  "name": "de.lumpn.unity-quitting",
+  "version": "1.0.0",
+  "displayName": "Quitting",
+  "description": "Uniformly quit Unity across all platforms.",
+  "keywords": [
+    "lumpn",
+    "application",
+    "isPlaying",
+    "quit",
+    "quitting"
+  ],
+  "author": {
+    "name": "Jonas Boetel",
+    "url": "https://github.com/lumpn"
+  }
+}
