@@ -1,3 +1,7 @@
+//----------------------------------------
+// MIT License
+// Copyright(c) 2023 Jonas Boetel
+//----------------------------------------
 using UnityEditor;
 
 namespace Lumpn.Quitting
